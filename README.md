@@ -2,7 +2,7 @@
 
 Assignment 4 - Markov Decision Processes
 
-Code can be accessed at this Github repository: [https://github.com/Vi2x101/CS7641-UL-and-Dimensionality-Reduction.git](https://github.com/Vi2x101/CS7641-Markov-Decision-Processes)
+Code can be accessed at this Github repository: https://github.com/Vi2x101/CS7641-Markov-Decision-Processes.git
 
 Before running any code, it is advised to download any packages needed using requirements.txt.
 
